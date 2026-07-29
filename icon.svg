@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="环玲.觅捷">
+  <rect width="512" height="512" rx="112" fill="#10231f"/>
+  <circle cx="256" cy="256" r="164" fill="#0f6b57"/>
+  <path d="M92 264h82l30-68 52 146 42-108 27 30h95" fill="none" stroke="#fff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="164" fill="none" stroke="#ef5b36" stroke-width="12" opacity=".9"/>
+</svg>

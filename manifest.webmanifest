@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "环玲.觅捷",
+  "short_name": "觅捷",
+  "description": "融合临床症状、生命体征、七项芯片结果与权威评分的院前胸痛辅助决策科研演示应用。",
+  "lang": "zh-CN",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f2f5f0",
+  "theme_color": "#0f6b57",
+  "categories": ["medical", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false
+}
