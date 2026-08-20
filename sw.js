@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "huanling-mijie-pages-";
-const CACHE_NAME = `${CACHE_PREFIX}v2`;
+const CACHE_NAME = `${CACHE_PREFIX}v3`;
 const BASE_URL = new URL("./", self.registration.scope);
 const APP_SHELL = [
   BASE_URL.href,

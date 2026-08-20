@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "环玲.觅捷",
-  "short_name": "觅捷",
-  "description": "融合临床症状、生命体征、七项芯片结果与权威评分的院前胸痛辅助决策科研演示应用。",
+  "name": "觅捷·环玲院前胸痛智能辅助决策系统",
+  "short_name": "觅捷·环玲",
+  "description": "MMC心梗检测仪配套的院前胸痛智能辅助决策软件。",
   "lang": "zh-CN",
   "start_url": "./?source=pwa",
   "scope": "./",
